@@ -1,0 +1,40 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+
+          {
+            "Farea": "1",
+            "Pattribute_3":"3",
+            "Pattribute_4":"0",
+            "Pgenre": "0",
+            "Pinder": "X",
+            "Pother_name": "Joke",
+            "Psinger_id": "5063",
+            "Psinger_mid": "998765566",
+            "Psinger_name": "薛之谦",
+            "Psinger_tag": "541,555",
+            "Psort": "1",
+            "Ptrend":"0",
+            "Ptype": "0",
+            "voc": "0"
+          },
+          {
+            "Farea": "0",
+            "Pattribute_3":"2",
+            "Pattribute_4":"0",
+            "Pgenre": "0",
+            "Pinder": "z",
+            "Pother_name": "Jay Chou",
+            "Psinger_id": "5063",
+            "Psinger_mid": "998765566",
+            "Psinger_name": "周杰伦",
+            "Psinger_tag": "541,555",
+            "Psort": "2",
+            "Ptrend":"0",
+            "Ptype": "0",
+            "voc": "0"
+      }
+    ]
+  }
+}
